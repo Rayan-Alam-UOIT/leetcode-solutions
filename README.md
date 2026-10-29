@@ -1,2 +1,2 @@
 # leetcode-solutions
-A place to store my leetcode solutions for interview practice.
+A place to store my LeetCode solutions as I practice for interviews and general coding improvement.
